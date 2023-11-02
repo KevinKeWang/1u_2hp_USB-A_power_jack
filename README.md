@@ -29,4 +29,4 @@ PCB gerber files:
 The datasheet for the USB socket is [here](https://github.com/KevinKeWang/1u_2hp_USB-A_power_jack/tree/6a52db3dab3cac73905670a4343ef68063320e44/datasheet "datasheet") and you can replace it with any size compatible socket.
 
 ## License
-This 3D model and PCB layout is made available under a cc-by-sa-3.0 license.
+This PCB layout is made available under a cc-by-sa-3.0 license.
