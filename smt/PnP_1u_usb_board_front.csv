@@ -1,0 +1,5 @@
+Designator,Mid X,Mid Y,Rotation,Layer,Comment
+D1,16.19mm,15.9mm,270,T,FKIT-LED-1206
+J4,24mm,11mm,270,T,2X3_SMD
+R1,16.19mm,7.1mm,90,T,1206
+USB1,6.68mm,11mm,0,T,USB-A-10.0QTJ6.3
